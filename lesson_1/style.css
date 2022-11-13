@@ -1,0 +1,13 @@
+.container {
+  margin: 0 auto;
+  margin-top: 20vh;
+  width: 100%;
+  max-width: 768px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+
+.result {
+  padding: 10px;
+}
